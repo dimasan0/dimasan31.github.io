@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    padding:0;
+    margin: 0;
+    background: rgb(164,119,49);
+    background: linear-gradient(90deg, rgba(164,119,49,1) 0%, rgba(221,193,152,1) 46%, rgba(118,80,45,1) 100%);
+}
+
+.About {
+    background: rgb(164,119,49);
+    background: linear-gradient(90deg, rgba(164,119,49,1) 0%, rgba(221,193,152,1) 46%, rgba(118,80,45,1) 100%);
+}
+
+.navbar {
+    background-color:saddlebrown;
+}
+
+p {
+    line-height: 1;
+}
+
+nav-link a{
+    color: black;
+}
+
+card-text{
+    font-size: 200;
+}
